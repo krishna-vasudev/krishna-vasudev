@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 ## 📈 Github Stats
 [![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-vasudev&count_private=true&show_icons=true&theme=radical)](https://github.com/krishna-vasudev/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-vasudev&hide=HTML&langs_count=8&layout=compact)](https://github.com/krishna-vasudev/github-readme-stats)<br>
-[![Debraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=krishna_vasudev&layout=compact)](https://github.com/krishna-vasudev/github-readme-stats)<br>
+[![Debraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krishna_vasudev&layout=compact)](https://github.com/krishna-vasudev/github-readme-stats)<br>
 <img src="https://img.shields.io/badge/welcome-visitors-blue?labelColor=green&style=flat" alt="welcome" />
 
