@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69663512/130028349-ad64633f-0e95-4759-9816-7d7f060c9261.jpg" alt="my banner" height="250" width="800"> <br>
+<img src="https://user-images.githubusercontent.com/69663512/130028349-ad64633f-0e95-4759-9816-7d7f060c9261.jpg" alt="my banner" height="300" width="900"> <br>
   <h3 align="center"> Hi there , I'm Debraj 👋 </h3>
 </p>
 <p align="center">
@@ -39,3 +39,22 @@ Here are some ideas to get you started:
 ## 💼 Technical Skills
 <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/code-django-green?labelColor=grey&style=flat&link=https://www.djangoproject.com" alt="code" /></a>
 <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/code-javascript-yellow?labelColor=grey&style=flat&link=https://www.javascript.com" alt="code" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/style-css-pink?labelColor=grey&style=flat&link=https://developer.mozilla.org/en-US/docs/Web/CSS" alt="style" /></a>
+<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/style-bootstrap-violet?labelColor=grey&style=flat&link=https://getbootstrap.com" alt="style" /></a>
+<a href="https://html.com"><img src="https://img.shields.io/badge/markdown-html-orange?labelColor=grey&style=flat&link=https://html.com" alt="markdown" /></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/code-python-blue?labelColor=grey&style=flat&link=https://www.python.org" alt="code" /></a>
+<a href="https://julialang.org"><img src="https://img.shields.io/badge/code-julia-indigo?labelColor=grey&style=flat&link=https://julialang.org" alt="code" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/"><img src="https://img.shields.io/badge/code-c/c++-red?labelColor=grey&style=flat&link=https://docs.microsoft.com/en-us/cpp/" alt="code" /></a>
+<a href="https://opencv.org"><img src="https://img.shields.io/badge/code-opencv-yellow?labelColor=grey&style=flat&link=https://opencv.org" alt="code" /></a><br>
+<img src="https://img.shields.io/badge/tools-heroku-indigo?labelColor=grey&style=flat" alt="tools" />
+<img src="https://img.shields.io/badge/tools-git-orange?labelColor=grey&style=flat" alt="tools" />
+<img src="https://img.shields.io/badge/tools-github-black?labelColor=grey&style=flat" alt="tools" />
+<img src="https://img.shields.io/badge/code-mysql-blue?labelColor=grey&style=flat" alt="code" />
+## 📈 Github Stats
+[![Debraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-vasudev&count_private=true&show_icons=true&theme=radical)](https://github.com/krishna-vasudev/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-vasudev&hide=HTML&langs_count=8&layout=compact)](https://github.com/krishna-vasudev/github-readme-stats)<br>
+<!--
+[![Debraj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krishna_vasudev&layout=compact)](https://github.com/krishna-vasudev/github-readme-stats)
+-->
+<img src="https://img.shields.io/badge/welcome-visitors-blue?labelColor=green&style=flat" alt="welcome" />
+
