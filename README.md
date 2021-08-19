@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 <h3> 🤝 Connect with me:</h3>
 
-<a href="www.linkedin.com/in/debraj-bhal-7597861b2"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Debraj Bhal | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/debraj-bhal-7597861b2"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Debraj Bhal | LinkedIn" width="21px"/></a>
   
   <a href="https://instagram.com/debrajbhal?utm_medium=copy_link
 "><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Debraj Bhal | Instagram" width="21px"/></a><br>
